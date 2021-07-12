@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The client has provided a JavaScript file of collected UFO sighting information and has requested assistance in creating an html page which displays their data. In order to best display the data on the html page, a second JavaScript file was created to allow visitors to the webpage to filter the data to find results matching their interests.
+The client has provided a JavaScript file of collected UFO sighting information and requested assistance in creating an html page which displays their data. In order to best display the data on the html page, a second JavaScript file was created to allow visitors to the webpage to filter the data to find results matching their interests.
 
 ## Results
 
